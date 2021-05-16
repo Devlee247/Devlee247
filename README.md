@@ -2,6 +2,8 @@
  <br>
   <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Pose%20Estimation-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-Korean%20%26%20English-brightgreen" />
+ <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevlee247&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </h1> 
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Techs that I've used at least once </h3>
@@ -40,4 +42,5 @@
 <br><br><br><br><br>
 
 <hr>
+
 
