@@ -12,7 +12,7 @@
   <code> <img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"> </code>
   <code> <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/100px-ISO_C%2B%2B_Logo.svg.png" width='40'> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
-  <code> <img height="50" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png
+  <code> <img height="50" src="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png
 "> </code>
   <code> <img height="50" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"> </code>
 <p align="center">
