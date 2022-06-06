@@ -1,4 +1,4 @@
-<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Devlee247.
+<h1 align="center">Hello World, I am Devlee247.
  
  <br>
   <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Pose%20Estimation-brightgreen" />
@@ -7,7 +7,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevlee247&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
 </h1> 
 
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Techs that I've used at least once </h3>
+<h3 align="center"> Techs that I've used at least once </h3>
 <p align="center">  
   <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
@@ -37,7 +37,7 @@
 
 <hr>
 
-<h3 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Git Activeness </h3>
+<h3 align="center"> Git Activeness </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devlee247&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Devlee247&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
